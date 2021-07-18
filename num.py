@@ -1,0 +1,1 @@
+number = ""  # Put The Target Number Here (write Country Tag To Like this => +98.....)
